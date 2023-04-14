@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/espresso/static/media/nobubar.4ccb3836.png"
   },
   {
-    "revision": "50f9cc148a1819bfbc57449b2b7f7680",
+    "revision": "0e132b333c01b4efb64b05ddf71b7dcd",
     "url": "/espresso/index.html"
   }
 ];
